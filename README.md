@@ -14,7 +14,7 @@ Projeto de estudo em Spring Boot que se integra à [PokeAPI](https://pokeapi.co/
 ## Estrutura do projeto
 
 ```
-src/main/java/com/example/apirestwithspring
+apirestwithspring/src/main/java/com/example/apirestwithspring
 ├── ApirestwithspringApplication.java   # classe principal
 ├── controllers/PokemonController.java  # endpoints REST
 ├── services/PokemonService.java        # regras e chamada à PokeAPI
